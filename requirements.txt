@@ -6,3 +6,4 @@ PyPDF2
 langchain
 langchain-google-genai
 docx
+python-docx
