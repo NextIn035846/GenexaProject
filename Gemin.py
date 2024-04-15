@@ -23,7 +23,7 @@ from docx.oxml.ns import qn
 #os.getenv("GOOGLE_API_KEY")
 #genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
-os.environ['GOOGLE_API_KEY']="Your API Key "
+os.environ['GOOGLE_API_KEY']="AIzaSyA8TesjTLzuqovktzzhu4Vvdo3F0Tbcpvc"
 
 # Document Creation 
 from docx import Document
