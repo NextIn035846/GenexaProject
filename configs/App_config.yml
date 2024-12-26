@@ -1,0 +1,124 @@
+Summary_Prompt: |  
+  Combine the extracted information into a comprehensive summary that covers all key aspects of the RFP. Consider the following while providing the summary:
+
+  * **Title of the RFP:**  it is generally the Header at the beginning of RFP document
+  * **Synopsis / Solicitation number:** 
+  * **Issuing Agency:** (include full name and do not use abbreviations)
+  * **Response deadline:** 
+  * **Summary of Synopsis based on the RFP:** 
+  * **Key requirements:**
+      * Technical aspects
+      * Pricing aspects
+      * Business aspects
+      * (and any other similar aspects)
+  * **Additional information:** 
+  * **Other important recommendations:**
+
+  Furthermore, ensure the summary is clear, concise, and accurately reflects the contents of the original document. 
+  Include any additional insights or recommendations based on the RFP requirements.
+
+
+Deadlines: |
+  Please provide the following information from the given RFP documentation:
+
+  * **1. Deadlines:**
+    List all key deadlines mentioned in the RFP, including:
+      - Deadline / date for proposal submission.
+      - Deadline / date for Submission of solicitation 
+      - Deadline/ date  for submitting questions.
+
+  For each deadline, provide the specific date or timeline (e.g., "Proposal submission deadline June 15, 2023").
+
+  2. Project Timelines:
+      - Outline the overall project timeline as described in the RFP, including the anticipated duration of the project, key phases or milestones, and any specific timelines for deliverables or project stages like contract award, project start, and any other important milestones.
+
+  3. Contact Information:
+      - Identify the primary points of contact for the RFP, including the name, title, email address, and phone number of the person(s) responsible for managing the RFP process.
+
+  4. Extract Info:
+      - Give the Page Number Where you Extract This information So user can go through This DOcumnet 
+
+  Key Points:
+    - Carefully review the RFP document to extract the requested information.
+    - Provide the details in a clear and concise format, using bullet points or a table if appropriate.
+    - Ensure that all dates, timelines, and contact information are accurate and match the RFP documentation.
+    - Highlight any important or time-sensitive deadlines that require special attention.  
+
+
+Requirements: |
+  This section summarizes the technical, functional, non-functional, and security requirements specified in the RFP. They are organized in a table for clarity.
+
+  | Requirement Type | Description | Details/Constraints | Priority | RFP Section |
+  |---|---|---|---|---|
+  | Technical | (Insert Requirement) | (Specify details) | (Mandatory/Desirable) | (See RFP Section X.X) |
+  | Functional | (Insert Requirement) | (Specify details) | (Mandatory/Desirable) | (See RFP Section X.X) |
+  | Non-Functional | (Insert Requirement) | (Specify details) | (Mandatory/Desirable) | (See RFP Section X.X) |
+  | Security | (Insert Requirement) | (Specify details) | (Mandatory/Desirable) | (See RFP Section X.X) |
+
+  **Please note:** Replace the bracketed information with the actual requirements and details from your RFP document.
+
+   Other_Information: 
+   This section summarizes other key details from the RFP that are important for the RFP response team.
+
+   * **Project Scope and Objectives:**
+      - Briefly describe the project's overall goals and deliverables. (See RFP Section X.X)
+   * **Evaluation Criteria and Selection Process:**
+      - Summarize the key factors used to evaluate proposals and select the winning vendor. (See RFP Section X.X)
+   * **Budget or Pricing Guidelines:**
+      - Outline any budgetary constraints or pricing expectations mentioned in the RFP. (See RFP Section X.X)
+   * **Contract Terms and Conditions:**
+      - Briefly highlight any key points regarding the contract terms and conditions. (See RFP Section X.X)
+
+   **Remember:** Refer to the specific RFP sections for detailed information on each point.
+
+
+Scope: |
+  This section summarizes the scope of work outlined in the RFP.
+
+  * **Services to be Provided:**
+    - Briefly describe the core services the winning bidder will be responsible for. (See RFP Section X.X)
+  * **Tasks to be Performed:**
+    - List the key tasks expected of the bidder to complete the project. (See RFP Section X.X)
+  * **Key Deliverables:**
+    - Summarize the main deliverables the bidder will provide throughout the project. (See RFP Section X.X)
+  * **Project Timeline:**
+    - Outline the overall project timeline, including anticipated duration and key milestones. (See RFP Section X.X)
+
+  **Additional Scope Considerations:**
+    - Summarize any other important aspects related to the project scope, such as:
+        - Assumptions made in the RFP (See RFP Section X.X)
+        - Exclusions from the scope of work (See RFP Section X.X)
+        - Acceptance criteria for deliverables (See RFP Section X.X)
+  **Note:** Replace bracketed information with details from your specific RFP.
+
+   **Important:** 
+   - Look for the "Statement of Work" (SOW) section within the RFP as it  often defines the core responsibilities  of the winning bidder.
+   - Refer to the specified RFP sections for detailed information on each aspect of the scope.
+
+
+Sections: |
+   You are an expert in crafting RFP response documents. I need your help in extracting the relevant sections that should be included in an RFP response for this given RFP needs
+   Your task is to search the entire given RFP document based on following aspects:
+   -Various sections and volumes provided in the RFP document
+   -Requirements and scope of the given RFP
+   -Evaluation and submission criterion of the RFP document
+   Once this is done, list out the sections to be included in the RFP response as per instructions below
+   Submission Requirements / Sections to be included:
+   Identify and list all the elements and information that the proposal submission must contain, such as:
+   - Proposal format and structure
+   - Required sections based on RFP needs (e.g., executive summary, technical approach, Company Overview, project plan, team qualifications)
+   - Any supporting documents or attachments required
+
+   Also, provide a brief description and concise 1-2 paragraph summary of each of the sections that are to be responded to in the RFP strictly based on the RFP needs, RFP evaluation criteria and other relevant information in the RFP. Do not include any generic content
+
+
+Formating : |
+   You are an expert in creating RFP response templates in word and PPT.
+   Search the given RFP document in entirety and  look out for specific instructions or guidelines mentioned in the document regarding formatting, layout, or content organisation.
+   After extracting this information, provide the following information regarding the response template formatting and layout:
+   Optimal document formatting and layout.
+   The page limit and formatting requirements for the response document as listed in the RFP document
+   The font size as listed in the RFP document with exception for charts, tables, and graphics
+   The list of items that are excluded from the page count, font, margin, and spacing requirements
+   Provide detailed Instructions for submission for each section or volumes in the RFP response
+   List out the all important Evaluation criterion for RFP response
